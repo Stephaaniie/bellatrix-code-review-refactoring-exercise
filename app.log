@@ -1,0 +1,49 @@
+2019-11-01 00:06:31,401 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(27)-127.0.0.1] Application shutdown requested.
+2019-11-01 00:06:31,409 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [RMI TCP Connection(27)-127.0.0.1] Shutting down ExecutorService 'applicationTaskExecutor'
+2019-11-01 00:08:49,138 INFO com.belatrixsf.app.BApplication [restartedMain] Starting BApplication on DESKTOP-TKESMK1 with PID 2904 (C:\Emilio\Desarrollo\workspaces\workspace-sts\refactoring-exercise\target\classes started by maria in C:\Emilio\Desarrollo\workspaces\workspace-sts\refactoring-exercise)
+2019-11-01 00:08:49,142 DEBUG com.belatrixsf.app.BApplication [restartedMain] Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-11-01 00:08:49,142 INFO com.belatrixsf.app.BApplication [restartedMain] The following profiles are active: prod
+2019-11-01 00:08:49,206 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-11-01 00:08:49,206 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-11-01 00:08:50,281 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2019-11-01 00:08:50,433 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 1227 ms
+2019-11-01 00:08:50,630 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-01 00:08:50,782 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2019-11-01 00:08:50,845 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-01 00:08:50,849 INFO com.belatrixsf.app.BApplication [restartedMain] Started BApplication in 2.263 seconds (JVM running for 23.158)
+2019-11-01 00:08:50,850 INFO com.belatrixsf.app.BApplication [restartedMain] EXECUTING : command line runner - Examples level logs
+2019-11-01 00:08:50,851 DEBUG com.belatrixsf.app.BApplication [restartedMain]  needed to debug - .:: MESSAGE ::.
+2019-11-01 00:08:50,852 INFO com.belatrixsf.app.BApplication [restartedMain]  took input - .:: MESSAGE ::.
+2019-11-01 00:08:50,852 WARN com.belatrixsf.app.BApplication [restartedMain]  needed to warn - .:: MESSAGE ::.
+2019-11-01 00:08:50,852 ERROR com.belatrixsf.app.BApplication [restartedMain]  encountered an error with value - .:: MESSAGE ::.
+2019-11-01 00:08:50,852 INFO com.belatrixsf.app.BApplication [restartedMain] END
+2019-11-01 00:08:51,974 INFO com.belatrixsf.app.BApplication [restartedMain] application finished
+2019-11-01 00:09:48,410 INFO com.belatrixsf.app.BApplication [restartedMain] Starting BApplication on DESKTOP-TKESMK1 with PID 12896 (C:\Emilio\Desarrollo\workspaces\workspace-sts\refactoring-exercise\target\classes started by maria in C:\Emilio\Desarrollo\workspaces\workspace-sts\refactoring-exercise)
+2019-11-01 00:09:48,413 DEBUG com.belatrixsf.app.BApplication [restartedMain] Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-11-01 00:09:48,413 INFO com.belatrixsf.app.BApplication [restartedMain] The following profiles are active: prod
+2019-11-01 00:09:48,477 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-11-01 00:09:48,477 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-11-01 00:09:49,429 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2019-11-01 00:09:49,502 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 1025 ms
+2019-11-01 00:09:49,699 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-01 00:09:49,853 WARN org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] Unable to start LiveReload server
+2019-11-01 00:09:49,893 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [restartedMain] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-11-01 00:09:49,899 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [restartedMain] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2019-11-01 00:09:49,904 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Shutting down ExecutorService 'applicationTaskExecutor'
+2019-11-01 00:10:20,184 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-7] Shutting down ExecutorService 'applicationTaskExecutor'
+2019-11-01 00:10:20,537 INFO com.belatrixsf.app.BApplication [restartedMain] Init application
